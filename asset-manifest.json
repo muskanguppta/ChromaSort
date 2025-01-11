@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChromaSort/static/css/main.f15434df.css",
+    "main.js": "/ChromaSort/static/js/main.93dd67da.js",
+    "static/js/453.89da82cc.chunk.js": "/ChromaSort/static/js/453.89da82cc.chunk.js",
+    "index.html": "/ChromaSort/index.html",
+    "main.f15434df.css.map": "/ChromaSort/static/css/main.f15434df.css.map",
+    "main.93dd67da.js.map": "/ChromaSort/static/js/main.93dd67da.js.map",
+    "453.89da82cc.chunk.js.map": "/ChromaSort/static/js/453.89da82cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15434df.css",
+    "static/js/main.93dd67da.js"
+  ]
+}
